@@ -1,0 +1,20 @@
+
+git init
+ 
+git status
+
+echo "Hii Adanan Shaikh" > firsttestfile.sh
+
+vi firsttestfile.sh 
+
+git add firsttestfile.sh 
+
+git rm --cached firsttestfile.sh 
+
+git add firsttestfile.sh 
+
+git commit -m "added test file"
+
+rm firsttestfile.sh 
+ 
+git restore firsttestfile.sh 
