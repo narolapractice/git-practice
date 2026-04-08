@@ -1,14 +1,7 @@
 def my_function():
-    a=5
-    b=6
-    df=34
-    return d
+
+    a = 5
+    return a
+
 
 my_function()
-
-
-
-
-34/456
-
-my_testing f
